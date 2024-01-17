@@ -3,6 +3,7 @@ import sys
 import os
 
 
+
 #filename = '/home/ayumi/final_project_university/raw_file_data/SR_jan2mar2019_cappi3km/2019/01/R13537439_201901010000.raw'
 #path_out = '/home/ayumi/final_project_university/raw_file_data/pŕocessed_file'
 
